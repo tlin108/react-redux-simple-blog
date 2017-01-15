@@ -5,3 +5,11 @@ form a {
 .posts-list {
   width: 100%;
 }
+
+.list-group {
+  margin-top: 20px;
+}
+
+.header {
+  margin-top: 10px;
+}
